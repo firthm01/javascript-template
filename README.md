@@ -7,10 +7,10 @@ CODE
 ```
 
 
-## Documenatation
+## Documentation
 HTML formatted documentation is available in the `./doc` folder of this repository.
 
-To generate the documentation from source run the following command:
+To generate the documentation from source, run the following command:
 ``` Bash
 npm run doc
 ```
